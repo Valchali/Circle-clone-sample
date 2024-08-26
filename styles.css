@@ -1,0 +1,171 @@
+body, ul, li, h1, h2, a{
+    margin: 0;
+    padding: 0;
+    /* font-family: arial; */
+}
+
+header{
+    background-color: #f0f331;
+    padding: 20px;
+    /* text-align: center; */
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    }
+
+     .anchor a{
+        display: inline;
+        margin-left:5rem;
+        /* padding: 10px; */
+        margin-top: 3px;
+        
+    }
+
+    .log-in a {
+        /* display: inline; */
+       margin-left: 80rem;
+       padding: 30px;
+    }
+
+    .Start{
+        background-color: rgb(0, 81, 255);
+        width: 100px;
+        height: 50px;
+        border-radius: 5px 5px;
+    }
+    
+    .intro{
+        margin-top: 10rem;
+        text-align: center;
+        
+    } 
+  
+    .form-field{
+        display: flex;
+        padding: 30px;
+        margin-left: 35rem;
+        background-color: #f0f331;
+        width: 25rem;
+        align-items: center;
+        
+    }
+   
+    .form-field button{
+        
+        margin-left: 5rem;
+        width: 100px;
+        height: 40px;
+    }
+
+    .proud{
+       
+        text-align: center;
+    }
+    .proud p{
+        font-size: 40px;
+        color: rgb(0, 81, 255);
+        margin-top: 2px;
+    }
+
+       .btn{
+        display: flex;
+        gap: 50px;
+        margin-left: 38rem;
+     }
+
+     .community{
+        display: flex;
+        padding: 100px;
+        margin-bottom: 40px;
+        /* align-items: center; */
+     }
+
+     .community-2{
+        padding: 7rem;
+        align-items: center;
+        /* display: flex; */
+     }
+
+     .community-2 h2{
+        font-size: 35px;
+        font-weight: bolder;
+        
+     }
+
+     .community-2 p{
+        font-size:1.2rem;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-weight: lighter;
+     }
+
+    
+
+     .people h1{
+        text-align: center;
+        font-size: 60px;
+        /* margin-top: 50px; */
+     }
+    
+     .people-img{
+        padding: 100px;
+        /* align-self: center; */
+        margin-bottom: 10rem;
+        /* gap:10px; */
+
+     }
+
+     .people-img1{
+        display: flex;
+        gap: 30px;
+        padding: 10px;
+     }
+
+     .startup{
+        border-radius: 10px 10px;
+     }
+
+     .customer{
+        border-radius: 10px 10px;
+     }
+
+     .course{
+        border-radius: 10px 10px;
+     }
+
+     .people-img2{
+        padding: 10px;
+        display: flex;
+        gap: 30px;
+     }
+
+     .membership{
+        border-radius: 10px 10px; 
+     }
+
+     .coaching{
+        border-radius: 10px 10px;
+     }
+
+     .clubs{
+        border-radius: 10px 10px; 
+     }
+
+     .circle-feature h1{
+        text-align: center;
+        font-size: 60px;
+     }
+
+     .circle-feature p{
+        text-align: center;
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: rgb(68, 68, 68);
+     }
+
+     .features-table{
+        display: flex;
+        gap: 50px;
+        
+     }
